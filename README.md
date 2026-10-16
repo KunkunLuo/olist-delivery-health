@@ -2,6 +2,8 @@
 
 A one-page Streamlit dashboard for the **customer-experience manager** at Olist, the Brazilian
 marketplace these orders come from.
+**By:**&#8203; Kunkun Luo
+
 
 **Live app:** <!-- PASTE YOUR STREAMLIT URL HERE -->
 **Dataset:** [Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle)
