@@ -9,7 +9,7 @@ import streamlit as st
 
 # ----------------------------------------------------------------------------
 # Fill this in before submitting.
-TEAM_NAME = "Team <your team name>"
+TEAM_NAME = "Kunkun Luo"
 # ----------------------------------------------------------------------------
 
 DATA_FILE = "olist_delivery.csv"
